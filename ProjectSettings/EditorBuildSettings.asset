@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Test.unity
+    guid: 3b66e9a5c0bf81346aec24dc360da5ef
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: ed6ce838b02897042b42c0a95c0234f0
+  - enabled: 1
+    path: Assets/Scenes/Livers.unity
+    guid: 869836fa717e696418ebaa7a852ed3df
+  - enabled: 1
+    path: Assets/Scenes/Lungs.unity
+    guid: 2a937e739f31cc042927e006aa2fa729
+  - enabled: 1
+    path: Assets/Scenes/Heart.unity
+    guid: db6dd5186fa6b01489d34932db877db1
+  - enabled: 1
+    path: Assets/Scenes/Brain.unity
+    guid: 958a3791fc8dc864ab195503874d428d
+  - enabled: 1
+    path: Assets/Scenes/Spine.unity
+    guid: 866253a53e0ec0547a0f10bb11611534
+  - enabled: 1
+    path: Assets/Scenes/Ribcage.unity
+    guid: 2f1ec087542ea244884309baa65c8703
+  - enabled: 1
+    path: Assets/Scenes/Skeleton.unity
+    guid: d767b529980f6ea40b6cb1addde5c2c4
+  - enabled: 1
+    path: Assets/Scenes/Skin.unity
+    guid: 8c346474b71f9994ab20ecaa011448c6
+  - enabled: 1
+    path: Assets/Scenes/Skull.unity
+    guid: 0c5806d4721bb48489a33ebc8dbcfdf1
+  - enabled: 1
+    path: Assets/Scenes/Body.unity
+    guid: 4ca92f0991185f04697de67db199eee4
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 4cf801f9b0a5ca54280ebd7e32ab8bf8, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3207efd68efe7c542ab76bf4263d0c6a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 62fbad0116ca6674c9c207d599cc4237, type: 2}
